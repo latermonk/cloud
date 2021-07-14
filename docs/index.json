@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://latermonk.github.io/cloud/advance/",
+	"title": "Advance",
+	"tags": [],
+	"description": "",
+	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
 	"uri": "https://latermonk.github.io/cloud/basics/",
 	"title": "Basics",
 	"tags": [],
@@ -12,6 +19,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Hello Worlds !!!\n"
+},
+{
+	"uri": "https://latermonk.github.io/cloud/advance/01-introduction/",
+	"title": "01 Introduction",
+	"tags": [],
+	"description": "",
+	"content": "Hello , This is the advanced version of this\n"
 },
 {
 	"uri": "https://latermonk.github.io/cloud/basics/03-youtube-shortcode/",
