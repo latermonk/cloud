@@ -5,3 +5,8 @@ draft: false
 ---
 
 Cloud si what ?
+
+video 75064361
+
+
+{{< bilibili BV1So4y1C75G >}}
